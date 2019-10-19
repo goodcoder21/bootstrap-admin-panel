@@ -22,7 +22,7 @@
 }
 
 @media (min-width: 1200px){
-	.nav-bar, .page-footer, main{
+	.navbar, .page-footer, main{
 		padding-left: 270px;
 	}
 }
